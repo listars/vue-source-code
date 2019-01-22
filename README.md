@@ -1,3 +1,3 @@
 ## Vue 源码学习笔记和Demo
 
-![vue-map](/listars/vue-source-code/static/vue-map.png)
+![vue-map](./static/vue-map.png)
